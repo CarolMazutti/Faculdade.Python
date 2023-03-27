@@ -1,2 +1,2 @@
 # Faculdade.Python
- **Atividades em aula**
+ **Atividades**
